@@ -9,7 +9,7 @@ int RedTwo = 8;
 int RedThree = 10;
 
 
-int
+
 void setup() {
   pinMode(GreenOne, OUTPUT);
   pinMode(GreenTwo, OUTPUT);
